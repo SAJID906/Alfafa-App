@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1,
+    "name": "Premium Dry Alfalfa",
+    "title": "Affordable alfalfa hay suitable for daily livestock feeding.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://media.istockphoto.com/id/1414219133/photo/in-the-spring-field-young-alfalfa-grows.webp?b=1&s=170667a&w=0&k=20&c=zEVWdoBOKnULghDPEmh2ddQXSGNJlWRrmGehYj12hts="
+  },
+
+  {
+    "id": 2,
+    "name": "Organic Dry Alfalfa",
+    "title": "Certified organic alfalfa hay, free from synthetic pesticides.",
+    "price": 0,
+    "category": "Organic",
+    "image": "https://media.istockphoto.com/id/1466800680/photo/alfalfa.webp?b=1&s=170667a&w=0&k=20&c=LFxT88PgxNM7bq4sFa_rUEIkb3sKt6t3NoLmZZaDj-4="
+  },
+  {
+    "id": 3,
+    "name": "Economy Dry Alfalfa",
+    "title": "Affordable alfalfa hay suitable for daily livestock feeding.",
+    "price": 330,
+    "category": "Free",
+    "image": "https://media.istockphoto.com/id/1019319346/photo/alfalfa-field.webp?b=1&s=170667a&w=0&k=20&c=zB-ff3LayxyHTYgWkrwuD-yIQauYBIz0laIjiGZKZtM="
+  },
+  {
+    "id": 4,
+    "name": "Premium Dry Alfalfa Pellets",
+    "title": "Convenient alfalfa pellets, easy to store and feed.",
+    "price": 0,
+    "category": "Pellets",
+    "image": "https://media.istockphoto.com/id/1409933486/photo/alfalfa-flower-isolated.webp?b=1&s=170667a&w=0&k=20&c=NSdp9QLqOYybP7IqwoAQeMTFwMs0XTRTRAvMYrFUkUc="
+  },
+  {
+    "id": 5,
+    "name": "High Protein Dry Alfalfa",
+    "title": "Alfalfa with high protein content, ideal for animal nutrition.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://media.istockphoto.com/id/157565189/photo/alfalfa-or-lucerne-sprouts.webp?b=1&s=170667a&w=0&k=20&c=GgCcJFhucJhNq4gDzmwRGDiUoFzqw7RBvVsd8NW133k="
+  },
+  {
+    "id": 6,
+    "name": "Low Sugar Dry Alfalfa",
+    "title": "Low-sugar alfalfa hay, suitable for animals with dietary restrictions.",
+    "price": 134,
+    "category": "Low-sugar",
+    "image": "https://media.istockphoto.com/id/1485494526/photo/mung-beans-with-shoots-close-up-heap-of-green-gram-seeds-on-white-background-sprouting-of.webp?b=1&s=170667a&w=0&k=20&c=wua37o7ttreSO0q4Zp28_RTQgNdhYFoRsFmqQBurtok="
+  },
+  {
+    "id": 7,
+    "name": "Alfalfa Cubes",
+    "title": "Compact alfalfa cubes, convenient for storage and transport.",
+    "price": 0,
+    "category": "Cubes",
+    "image": "https://media.istockphoto.com/id/1560617522/photo/fresh-sunflower-sprout-isolated-on-white-background-green-leaves-pattern-salad-ingredient.webp?b=1&s=170667a&w=0&k=20&c=t4O20KlrdESW2NSXFBOtfgtElux43Dl0K1BSRFEDCm8="
+  },
+  {
+    "id": 8,
+    "name": "Sun-cured Dry Alfalfa",
+    "title": "Alfalfa hay dried naturally under the sun, preserving nutrients.",
+    "price": 0,
+    "category": "Sun-cured",
+    "image": "https://media.istockphoto.com/id/1560617522/photo/fresh-sunflower-sprout-isolated-on-white-background-green-leaves-pattern-salad-ingredient.webp?b=1&s=170667a&w=0&k=20&c=t4O20KlrdESW2NSXFBOtfgtElux43Dl0K1BSRFEDCm8="
+  },
+  {
+    "id": 9,
+    "name": "Premium Dry Alfalfa Blend",
+    "title": "Blend of alfalfa varieties for balanced nutrition.",
+    "price": "Free",
+    "category": "Blend",
+    "image": "https://media.istockphoto.com/id/1560617522/photo/fresh-sunflower-sprout-isolated-on-white-background-green-leaves-pattern-salad-ingredient.webp?b=1&s=170667a&w=0&k=20&c=t4O20KlrdESW2NSXFBOtfgtElux43Dl0K1BSRFEDCm8="
+  },
+  {
+    "id": 10,
+    "name": "Alfalfa Haylage",
+    "title": "Alfalfa haylage, preserved through fermentation for enhanced digestibility.",
+    "price": "Free",
+    "category": "Haylage",
+    "image": "https://media.istockphoto.com/id/1400638525/photo/in-the-spring-field-young-alfalfa-grows.webp?b=1&s=170667a&w=0&k=20&c=urxXTkwZPttmcQ8u0J1w-8wqfCpsSKI59l0JWowgpUs="
+  },
+  {
+    "id": 11,
+    "name": "Alfalfa Silage",
+    "title": "Alfalfa silage, stored under anaerobic conditions for long-term preservation.",
+    "price": 0,
+    "category": "Silage",
+    "image": "https://media.istockphoto.com/id/1400638525/photo/in-the-spring-field-young-alfalfa-grows.webp?b=1&s=170667a&w=0&k=20&c=urxXTkwZPttmcQ8u0J1w-8wqfCpsSKI59l0JWowgpUs="
+  },
+  {
+    "id": 12,
+    "name": "Dew-dried Dry Alfalfa",
+    "title": "Alfalfa hay dried through dew exposure, maintaining freshness.",
+    "price": 0,
+    "category": "Dew-dried",
+    "image": "https://media.istockphoto.com/id/1400638525/photo/in-the-spring-field-young-alfalfa-grows.webp?b=1&s=170667a&w=0&k=20&c=urxXTkwZPttmcQ8u0J1w-8wqfCpsSKI59l0JWowgpUs="
+  }
+]
